@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=243B6B&center=true&vCenter=true&width=500&lines=Hey+I'm+Leanne!;Data+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&background=243B6B&center=true&vCenter=true&width=500&lines=Aspiring+Data+Engineer" />
 </h1>
+
 
 ---
 
