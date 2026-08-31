@@ -38,3 +38,62 @@ My career goal is to transition fully into **Data Engineering**, while continuin
   <!-- Second Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" height="40" alt="VBA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td>
+
+### 📌 [Chinook Dimensional Model](https://github.com/Lvzxc/chinook-model)  
+A dimensional model built from the Chinook database, designed to support analytics and reporting.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📌 [Retail Loyalty Data Pipeline](https://github.com/Lvzxc/retail-loyalty-pipeline)  
+An end-to-end pipeline for retail loyalty data, including ingestion, transformation, and reporting layers.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📌 [Sari-Sari Store Data Pipeline](https://github.com/Lvzxc/sari-sari-pipeline)  
+A pipeline project focused on sari-sari store data, enabling structured insights for local businesses.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Visuals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lvzxc&show_icons=true&theme=blue_navy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvzxc&layout=compact&theme=blue_navy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvzxc&theme=blue_navy" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lvzxc&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<!-- Animated Capsule Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B6B,100:1E293B&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20with%20data.&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</p>
