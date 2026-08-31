@@ -25,84 +25,16 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 ---
 
 ## 🛠️ Skills
-
-### 🚀 Data Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white" />
-</p>
-
-### 📊 Data Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 🧩 Data Modeling
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 🤝 Tools & Collaboration
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td>
-
-### 📌 [Chinook Dimensional Model](https://github.com/Lvzxc/chinook-model)  
-A dimensional model built from the Chinook database, designed to support analytics and reporting.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 📌 [Retail Loyalty Data Pipeline](https://github.com/Lvzxc/retail-loyalty-pipeline)  
-An end-to-end pipeline for retail loyalty data, including ingestion, transformation, and reporting layers.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 📌 [Sari-Sari Store Data Pipeline](https://github.com/Lvzxc/sari-sari-pipeline)  
-A pipeline project focused on sari-sari store data, enabling structured insights for local businesses.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Visuals
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lvzxc&show_icons=true&theme=blue_navy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvzxc&layout=compact&theme=blue_navy" />
+  <!-- First Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="Databricks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Spark" />
+  <img src="https://img.icons8.com/color/48/000000/database.png" height="40" alt="Delta Lake" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvzxc&theme=blue_navy" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lvzxc&theme=darkhub&margin-w=15&margin-h=15" />
-</p>
-
----
-
-<!-- Animated Capsule Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B6B,100:1E293B&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20with%20data.&fontSize=20&fontColor=ffffff&animation=twinkling" />
-</p>
+  <!-- Second Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
