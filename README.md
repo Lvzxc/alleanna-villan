@@ -26,23 +26,31 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 
 ## 🛠️ Skills
 
-**Data Engineering**  
-- Databricks  
-- Apache Spark  
-- Delta Lake  
+### 🚀 Data Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white" />
+</p>
 
-**Data Analytics**  
-- Power BI  
-- Excel  
+### 📊 Data Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-**Data Modeling**  
-- SQL  
-- Python  
-- Excel VBA  
+### 🧩 Data Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-**Tools & Collaboration**  
-- Git  
-- GitHub  
+### 🤝 Tools & Collaboration
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -97,3 +105,4 @@ A pipeline project focused on sari-sari store data, enabling structured insights
 <!-- Animated Capsule Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B6B,100:1E293B&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20with%20data.&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</p>
