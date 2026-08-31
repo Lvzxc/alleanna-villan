@@ -26,7 +26,6 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 
 ## 🛠️ Skills
 <p align="center">
-  <!-- First Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="Databricks" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Spark" />
   <img src="https://img.icons8.com/color/48/000000/database.png" height="40" alt="Delta Lake" />
@@ -35,7 +34,6 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 </p>
 
 <p align="center">
-  <!-- Second Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" height="40" alt="VBA" />
@@ -47,32 +45,42 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
-<td>
+### 📌 Chinook Dimensional Model
+A dimensional data warehouse built in Databricks using the Chinook dataset.  
+Includes star schema, Delta tables, data-quality checks, and analytical SQL queries.  
+**Technologies:** Databricks SQL · Delta Lake · Unity Catalog · GitHub · Tableau  
 
-### 📌 [Chinook Dimensional Model](https://github.com/Lvzxc/chinook-model)  
-A dimensional model built from the Chinook database, designed to support analytics and reporting.
+<p>
+  <a href="https://github.com/Lvzxc/chinook-model">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-243B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-### 📌 [Retail Loyalty Data Pipeline](https://github.com/Lvzxc/retail-loyalty-pipeline)  
-An end-to-end pipeline for retail loyalty data, including ingestion, transformation, and reporting layers.
+### 📌 Retail Loyalty Data Pipeline
+An incremental pipeline processing retail transactions and loyalty-member data through Bronze, Silver, and Gold layers.  
+Includes cleaning, integration, validation, KPI calculations, and Delta Lake MERGE operations.  
+**Technologies:** Databricks · SQL · Delta Lake · Medallion Architecture · Data Validation  
 
-</td>
-</tr>
-<tr>
-<td>
+<p>
+  <a href="https://github.com/Lvzxc/retail-loyalty-pipeline">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E40AF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 📌 [Sari-Sari Store Data Pipeline](https://github.com/Lvzxc/sari-sari-pipeline)  
-A pipeline project focused on sari-sari store data, enabling structured insights for local businesses.
+---
 
-</td>
-</tr>
-</table>
+### 📌 Sari-Sari Store Data Pipeline
+A pipeline focused on data quality: cleaning, validation, deduplication, and integration of sari-sari store transactions.  
+Separates valid and unresolved data while preserving reliable records for analysis.  
+**Technologies:** Databricks · SQL · Data Cleaning · Deduplication · Data Quality  
+
+<p>
+  <a href="https://github.com/Lvzxc/sari-sari-pipeline">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
