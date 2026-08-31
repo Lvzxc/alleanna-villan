@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=243B6B&center=true&vCenter=true&width=500&lines=Hey+I'm+Leanne!;Data+Engineer" />
 </h1>
 
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kvsky/readme-gradient-divider/main/divider.svg" width="100%" />
-</p>
+---
 
 ## 👋 About Me
 Hi, I’m **Alleanna Villan** — focused on **Data Engineering** with a background in **Financial Management**.  
@@ -14,7 +11,7 @@ I’m building expertise in **data pipelines**, **dimensional models**, **data c
 My career goal is to transition fully into **Data Engineering**, while continuing to explore **SQL, Python, Databricks, and Quality Assurance**.  
 
 🌍 Based in the **Philippines**  
-💡 Passionate about turning raw data into meaningful insights  
+💡 Driven by curiosity and a learner mindset, I continuously seek new knowledge and skills to grow, adapt, and create meaningful impact through data.
 
 ---
 
@@ -51,17 +48,32 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 
 ## 📂 Featured Projects
 
-**Chinook Dimensional Model**  
-Dimensional model built from the Chinook database, designed for analytics and reporting.  
-[Repository Link](https://github.com/Lvzxc/chinook-model)
+<table>
+<tr>
+<td>
 
-**Retail Loyalty Data Pipeline**  
-End-to-end pipeline for retail loyalty data, including ingestion, transformation, and reporting layers.  
-[Repository Link](https://github.com/Lvzxc/retail-loyalty-pipeline)
+### 📌 [Chinook Dimensional Model](https://github.com/Lvzxc/chinook-model)  
+A dimensional model built from the Chinook database, designed to support analytics and reporting.
 
-**Sari-Sari Store Data Pipeline**  
-Pipeline project focused on sari-sari store data, enabling structured insights for local businesses.  
-[Repository Link](https://github.com/Lvzxc/sari-sari-pipeline)
+</td>
+</tr>
+<tr>
+<td>
+
+### 📌 [Retail Loyalty Data Pipeline](https://github.com/Lvzxc/retail-loyalty-pipeline)  
+An end-to-end pipeline for retail loyalty data, including ingestion, transformation, and reporting layers.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📌 [Sari-Sari Store Data Pipeline](https://github.com/Lvzxc/sari-sari-pipeline)  
+A pipeline project focused on sari-sari store data, enabling structured insights for local businesses.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,25 +89,3 @@ Pipeline project focused on sari-sari store data, enabling structured insights f
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lvzxc&theme=darkhub&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Lvzxc/Lvzxc/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✨ Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lvzxc&style=for-the-badge&color=243B6B" />
-</p>
-
----
-
-<!-- Animated Wave Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B6B,100:1E293B&height=120&section=footer" />
-</p>
-
-<h3 align="center">Thanks for visiting my profile! Let’s connect and build something meaningful with data. 🚀</h3>
