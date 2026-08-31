@@ -89,3 +89,11 @@ A pipeline project focused on sari-sari store data, enabling structured insights
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lvzxc&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<!-- Animated Capsule Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B6B,100:1E293B&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20with%20data.&fontSize=20&fontColor=ffffff&animation=twinkling" />
